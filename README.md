@@ -1,4 +1,8 @@
-# Antasena Special Task
+# Remake Antasena Landing Pages With Laravel Blade
+
+![image](https://github.com/user-attachments/assets/855e6d7b-960d-4def-8c85-15e2d07c830d)
+
+![image](https://github.com/user-attachments/assets/93fc5468-532e-43cc-ba96-56d5f44db95f)
 
 This repository contains the source code for the Antasena Special Task project, which is a remake of the Antasena ITS website.
 
@@ -19,7 +23,7 @@ This repository contains the source code for the Antasena Special Task project, 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Attoher/Antasena-Special-Task.git
    ```
 
 2. **Move it into your Laragon or Herd repository**.
